@@ -1,6 +1,6 @@
 # StringConstruction
 
-StringConstruction is a utility that helps determine the cheapest cost of building a target string. The process involves adding characters to an initially empty string with two options: appending an arbitrary character with a given append cost or cloning any substring of the current string and appending it with a specified clone cost.
+StringConstruction is a utility that helps determine the cheapest cost of building a target string. The process involves adding characters to an initially empty string with two options: appending an arbitrary character with a given append cost or cloning any substring of the current string and appending it with a specified clone cost. The utility employs dynamic programming and backtracking to determine the optimal construction strategy.
 
 ## Example
 
